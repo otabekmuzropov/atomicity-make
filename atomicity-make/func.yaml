@@ -1,0 +1,4 @@
+specVersion: 0.36.0
+name: atomicity-make
+runtime: go
+created: 2025-02-05T11:13:07.566929+05:00
