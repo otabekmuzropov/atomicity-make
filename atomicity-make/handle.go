@@ -56,7 +56,7 @@ func Handler(params *pkg.Params) func(w http.ResponseWriter, r *http.Request) {
 			}
 		}
 
-		params.Log.Info().Msgf("Request OTASHJKEE: %v", request)
+		params.Log.Info().Msgf("Request OTASHJKEEE: %v", request)
 
 		response.Status = "done"
 
